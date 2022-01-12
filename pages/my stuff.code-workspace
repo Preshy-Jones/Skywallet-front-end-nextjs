@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "../../Skyewallet-front-end"
+    },
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../Skyewallet-api"
+    },
+    {
+      "path": "../../tapmoney"
+    }
+  ],
+  "settings": {}
+}
